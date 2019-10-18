@@ -8,13 +8,19 @@ body {
 }
 
 #cabecera {
-    background: #33A;
+    background: #37488b;
     color: white;
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
 }
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
 
 #cabecera #tagline {
     padding: 0 0 0 1em;
@@ -33,4 +39,10 @@ body {
 #conteinar h1 {
     font-size: 20px;
 
+}
+
+#post {
+    background: white;
+    padding: 1em;
+    
 }
